@@ -1,0 +1,1 @@
+This is a linux 2.0.x device driver for the Ajeco ANDI-SERVO motor control board, written as part of my original PhD thesis in 1999. Released under the MIT Licence (see the file LICENCE in this directory) in 2010.
